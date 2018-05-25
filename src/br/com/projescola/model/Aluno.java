@@ -1,5 +1,5 @@
 package br.com.projescola.model;
-
+//teste de Commit
 public class Aluno extends Pessoa{
 	
 	private int nota;
